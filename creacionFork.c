@@ -1,7 +1,7 @@
 /****************************************************************************
 Pontificia Universidad Javeriana
 Autor: Francisco Javier Guzman Villegas
-Fecha: 03/09/2024
+Fecha: 01/10/2024
 Materia: Sistemas Operativos
 Topico: Introduccion a procesos Fork.
 ****************************************************************************/
